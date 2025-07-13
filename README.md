@@ -1,4 +1,6 @@
-Hi there! I’m Nishtha Patel, a curious technologist blending software engineering, cybersecurity, AI, and business thinking into one evolving career.
+👋 
+Hi there! 
+I’m Nishtha Patel, a curious technologist blending software engineering, cybersecurity, AI, and business thinking into one evolving career.
 
 I hold a Bachelor’s in Computer Software Engineering from San Jose State University (2019), a Master’s in Project Management from Harrisburg University (2024), and I’m currently pursuing another Master’s in Computer Information Sciences with a Cybersecurity specialization (2026).
 
