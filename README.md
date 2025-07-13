@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there! I’m Nishtha Patel, a curious technologist blending software engineering, cybersecurity, AI, and business thinking into one evolving career.
 
-<!--
-**nphacks/nphacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I hold a Bachelor’s in Computer Software Engineering from San Jose State University (2019), a Master’s in Project Management from Harrisburg University (2024), and I’m currently pursuing another Master’s in Computer Information Sciences with a Cybersecurity specialization (2026).
 
-Here are some ideas to get you started:
+Professionally, I’ve worked on startup teams and held a software developer role at TCS (Citibank client) from 2022 to 2024. My stack includes Python, FastAPI, Angular, Node.js, MongoDB, SQL, Neo4j — with a strong interest in LLM-based applications and AI tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lately, I’ve been throwing myself into AI-focused hackathons, trying to turn wild ideas into working demos. I care about solving real-world problems, building things that don’t exist yet, and combining business insight with tech innovation.
+
+Even when I’m not on my job, I’m always a developer — learning, building, and experimenting.
+
+**Tech never catches up to my ideas — but I’m working on that.**
+
+➡️ Want to connect or see more of my work?  
+[Devpost](https://devpost.com/nishtha-hackathon) • [LinkedIn](www.linkedin.com/in/nishtha-patel-a213912ba)
