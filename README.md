@@ -4,7 +4,10 @@ I’m Nishtha Patel
 ---
 
 My Experience in:
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40"/>
+
 
 
 I am a curious technologist blending software engineering, cybersecurity, AI, and business thinking into one evolving career.
